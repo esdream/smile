@@ -1,0 +1,12 @@
+# vscode
+.vscode
+
+# IPython
+.ipynb_checkpoints
+
+# image data
+/training/data/crossvalidation_data/*
+/training/data/training_data/*
+
+# .tfrecords
+*.tfrecords
