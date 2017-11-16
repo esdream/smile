@@ -7,6 +7,8 @@
 # image data
 /training/data/crossvalidation_data/*
 /training/data/training_data/*
+!/training/data/crossvalidation_data/.gitkeep
+!/training/data/training_data/.gitkeep
 
 # .tfrecords
 *.tfrecords
