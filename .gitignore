@@ -10,5 +10,8 @@
 !/training/data/crossvalidation_data/.gitkeep
 !/training/data/training_data/.gitkeep
 
+/training/FER_emotions/*
+!/training/FER_emotions/.gitkeep
+
 # .tfrecords
 *.tfrecords
